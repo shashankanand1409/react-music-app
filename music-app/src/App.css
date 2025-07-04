@@ -41,30 +41,3 @@
   color: #888;
 }
 
-.header{
-  flex-direction: column;
-  position: sticky; 
-  top:0;
-  align-self: top;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.button-flex{
-  display: flex;
-  flex-direction: row;
-  align-self: start;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-}
-
-.header-text-elements{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-}
